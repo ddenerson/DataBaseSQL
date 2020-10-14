@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 Introdução  aos  sistemas  de  gerenciamento  de  bancos  de  dados:  motivação  para utilização,  vantagem  e  desvantagem.  Esquemas  e  mapeamentos.  Modelo  relacional: relações,  normalização,  UML.  Conceitos  de  bancos  de  dados  distribuídos,  regras  de gerenciamento operacional de banco de dados, associando às políticas de controle de acesso às demais regras de segurança, ensinando avaliação de desempenho e inserção de  regras  de  backup  e  recuperação  de  dado
 
-POSIÇÃO   |INFORMAÇÃO 
+TOPICOS   |INFORMAÇÕES 
 --------- | -----------------------------------------------
 1.Introdução a BD | Características,vantagens
 2.Sistemas de BD  | Conceitos e arquitetura 
