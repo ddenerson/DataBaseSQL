@@ -1,6 +1,8 @@
 # Banco de dados - Data Base 
 -------------------------------------------------------------------------------------------------------------------------------------
-Introdução  aos  sistemas  de  gerenciamento  de  bancos  de  dados:  motivação  para utilização,  vantagem  e  desvantagem.  Esquemas  e  mapeamentos.  Modelo  relacional: relações,  normalização,  UML.  Conceitos  de  bancos  de  dados  distribuídos,  regras  de gerenciamento operacional de banco de dados, associando às políticas de controle de acesso às demais regras de segurança, ensinando avaliação de desempenho e inserção de  regras  de  backup  e  recuperação  de  dado
+Introdução  aos  sistemas  de  gerenciamento  de  bancos  de  dados:  motivação  para utilização,  vantagem  e  desvantagem.
+Esquemas  e  mapeamentos , modelo  relacional: relações,  normalização,  UML.
+Conceitos  de  bancos  de  dados  distribuídos, regras  de gerenciamento operacional de banco de dados, associando às políticas de controle de acesso às demais regras de segurança, ensinando avaliação de desempenho e inserção de  regras  de  backup  e  recuperação  de  dado.
 
 TOPICOS   |INFORMAÇÕES 
 --------- | -----------------------------------------------
