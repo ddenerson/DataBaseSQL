@@ -1,0 +1,43 @@
+db.vendas.insert({numeropedido:28,
+                  datapedido :'08/01/2012',
+                  codvendedor:1468,
+                  matricula:1010,
+                  datavencimento:'08/01/2020',
+                  _id:'01'})
+
+
+db.vendas.insert({numeropedido:29,
+                  datapedido:'30/11/2019',
+                  codvendedor:1212,
+                  matricula:1011,
+                  datavencimento:'25/02/2020',
+                  _id:'02'})
+
+
+ 
+// -----------------------------------------------------------------
+
+use estacao02_vendas
+
+db.createCollection("vendas")
+show collections
+
+
+db.vendas.find()
+
+db.vendas.update({"_id":'01'},
+{$set:{itenspedido:{cnpj:"6164253/0001-06",numproduto:157}}})
+
+db.vendas.update({"_id":'01'},
+{$set:{produto:{descricao:"CAMISETA DA MARCA ADIDAS"}}})
+
+
+db.vendas.update({"_id":'02'}, 
+{$set:{itenspedido:{cnpj:"4161325/0001-01",numproduto:158}}})
+
+db.vendas.update({"_id":'02'}, 
+{$set:{produto:{descricao:“VIDEO GAME MARCA SONY.MODELO PLAYSTATION 4”}}})   
+
+
+
+db.vendas.find()

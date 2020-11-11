@@ -1,0 +1,37 @@
+
+// 1 - Criação da database
+
+use meus_pokemons
+
+
+// 2 - Exiba os datasets disponíveis
+
+show dbs
+
+
+// 3 - Exiba as coleções
+
+show collections
+db.createColletion("pokemons")
+show collections
+
+
+// 4 - Cadastro dos pokemons
+
+db.pokemons.insert(pokemons)
+
+
+// 5 – Liste os pokemons inseridos
+
+db.pokemons.find().pretty()
+
+
+// Passo 6 – Busca o pokemon ‘Ninetales’
+
+db.pokemons.find({"name":"Ninetales"})
+
+
+// Passo 7 – Atualize o pokemon Ninetiles no campo description - 'Dizem que pode viver até mil anos.'
+
+db.pokemons.update({"_id":ObjectId("5dd8e22c73e5593db875f225")},
+ {$set:{"description":"Ganha o controle da mente do inimigo"}})
