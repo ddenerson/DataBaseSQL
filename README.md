@@ -21,3 +21,9 @@ TOPICOS   |INFORMAÇÕES
 13.Agrupamento | Simples e condicional, ordenação e filtros de pesquisa 
 14.Funções de agregação | Count, sum, avg, min e max 
 15.Indexação |  Function Procedure e Trigger
+16.MongoDB   | Introdução
+17.SQLfundamentals | Exercicio extra 
+
+
+
+
