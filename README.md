@@ -4,7 +4,7 @@ Introdução  aos  sistemas  de  gerenciamento  de  bancos  de  dados
 
 TOPICOS   |INFORMAÇÕES 
 --------- | -----------------------------------------------
-1.Introdução a BD | Características,vantagens
+1.Introdução a BD | 
 2.Sistemas de BD  | Conceitos e arquitetura 
 3.Modelagem de dados| Usando o modelo entidade relacionamento (MER) 
 4.Modelagem | C/ MER estendido e UML 
