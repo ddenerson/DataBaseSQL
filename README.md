@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 Introdução  aos  sistemas  de  gerenciamento  de  bancos  de  dados
 
-TOPICOS   |
+TOPICOS   | *
 --------- | -----------------------------------------------
 1.Introdução a BD | 
 2.Sistemas de BD  | Conceitos e arquitetura 
