@@ -1,6 +1,18 @@
 # Banco de dados - Data Base 
 -------------------------------------------------------------------------------------------------------------------------------------
-### Introdução  aos  sistemas  de  gerenciamento  de  bancos  de  dados
+
+### Atividades
+
+POSIÇÃO  | CONTEÚDO 
+-------- | -----------
+1        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/01_modelagemBD">Modelagem banco de dados<a/>
+2        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/02_Vision"> Visões </a>
+3        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/03_Function">Funções<a/>
+4        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/04_Trigger">Trigger<a/>
+5        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/05_Transactions">Transacoes<a/>
+6        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/06_mongo">Mongo DB </a>
+7        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/07_SQLfundamentals">SQL Fundamentos exercicios[inglês]<a/>
+
 
 TOPICOS   | *
 --------- | -----------------------------------------------
@@ -20,14 +32,3 @@ TOPICOS   | *
 
 
 
-### Atividades
-
-POSIÇÃO  | CONTEÚDO 
--------- | -----------
-1        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/01_modelagemBD">Modelagem banco de dados<a/>
-2        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/02_Vision"> Visões </a>
-3        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/03_Function">Funções<a/>
-4        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/04_Trigger">Trigger<a/>
-5        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/05_Transactions">Transacoes<a/>
-6        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/06_mongo">Mongo DB </a>
-7        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/07_SQLfundamentals">SQL Fundamentos exercicios[inglês]<a/>
