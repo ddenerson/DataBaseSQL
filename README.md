@@ -10,7 +10,7 @@ POSIÇÃO  | CONTEÚDO
 3        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/03_Function">Function<a/>
 4        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/04_Trigger">Trigger<a/>
 5        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/05_Transactions">Transactions<a/>
-6        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/06_mongo">Mongo DB </a>
+6        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/06.mongo">Mongo DB </a>
 7        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/07_SQLfundamentals">SQL Fundaments exercises[inglês]<a/>
 
 
