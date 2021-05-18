@@ -5,13 +5,13 @@
 
 POSIÇÃO  | CONTEÚDO 
 -------- | -----------
-1        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/01_modelagemBD">Modelagem<a/>
-2        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/02_Vision"> Vision </a>
-3        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/03_Function">Function<a/>
-4        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/04_Trigger">Trigger<a/>
-5        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/05_Transactions">Transactions<a/>
+1        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/01.Modelagem">Modelagem<a/>
+2        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/02.Vision"> Vision </a>
+3        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/03.Function">Function<a/>
+4        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/04.Trigger">Trigger<a/>
+5        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/05.Transactions">Transactions<a/>
 6        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/06.mongo">Mongo DB </a>
-7        | <a href="https://github.com/ddenerson/-PostgreSQL/tree/master/07_SQLfundamentals">SQL Fundaments exercises[inglês]<a/>
+7        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/07.SQLFundamentals">SQL Fundaments exercises[inglês]<a/>
 
 
 TOPICOS   | *
