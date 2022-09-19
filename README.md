@@ -4,19 +4,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Atividades
-
-POSIÇÃO  | CONTEÚDO 
--------- | -----------
-1        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/01.Modelagem">Modelagem<a/>
-2        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/02.Vision"> Vision </a>
-3        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/03.Function">Function<a/>
-4        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/04.Trigger">Trigger<a/>
-5        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/05.Transactions">Transactions<a/>
-6        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/06.mongo">Mongo DB </a>
-7        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/07.SQLFundamentals">SQL Fundaments exercises[inglês]<a/>
-
-
 TOPICOS   | *
 --------- | -----------------------------------------------
 1.Introdução a BD |  <-
@@ -32,6 +19,19 @@ TOPICOS   | *
 11.Indexação |   <-
 12.MongoDB introdução  |  <-
 13.SQLfundamentals exercicio extra |  <- 
+
+
+###  Table of contents
+
+POSIÇÃO  | CONTEÚDO 
+-------- | -----------
+1        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/01.Modelagem">Modelagem<a/>
+2        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/02.Vision"> Vision </a>
+3        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/03.Function">Function<a/>
+4        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/04.Trigger">Trigger<a/>
+5        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/05.Transactions">Transactions<a/>
+6        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/06.mongo">Mongo DB </a>
+7        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/07.SQLFundamentals">SQL Fundaments exercises[inglês]<a/>
 
 
 
