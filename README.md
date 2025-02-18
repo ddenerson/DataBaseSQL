@@ -32,6 +32,4 @@ POSIÇÃO  | CONTEÚDO
 5        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/05.Transactions">Transactions<a/>
 6        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/06.mongo">Mongo DB </a>
 7        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/07.SQLFundamentals">SQL Fundaments exercises[inglês]<a/>
-
-
-
+8        | <a>BigQuery<a/>
