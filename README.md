@@ -1,35 +1,70 @@
 
+# Banco de Dados — Fundamentos e Exercícios
 
-#  Banco de dados - Data Base 
--------------------------------------------------------------------------------------------------------------------------------------
+Coletânea de estudos e exercícios de **banco de dados** desenvolvidos durante a
+minha graduação. O repositório reúne desde os conceitos teóricos (modelo
+relacional, dependência funcional, normalização) até prática em SQL e NoSQL,
+servindo como registro da base que sustenta o meu trabalho com dados hoje.
 
+> Todo o material foi produzido em **português**, ao longo da formação acadêmica.
 
-TÓPICOS   | *
---------- | -----------------------------------------------
-1.Introdução a BD |  <-
-2.Sistemas de BD  |  <-
-3.O modelo de dados relacional |  <- 
-4.Projeto de BD relacional |  <-
-5.Dependência funcional |   <-
-6.Algoritmos |  <-
-7.Metodologia |   <-
-8.Linguagem   DQL - DDL - DML |  <- 
-9.Agrupamento |  <-
-10.Funções de agregação |  <- 
-11.Indexação |   <-
-12.MongoDB introdução  |  <-
-13.SQLfundamentals exercicio extra |  <- 
+---
 
+## O que você encontra aqui
 
-###  Contents
+O conteúdo cobre a jornada completa de fundamentos de banco de dados, do modelo
+conceitual à implementação prática:
 
-POSIÇÃO  | CONTEÚDO 
--------- | -----------
-1        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/01.Modelagem">Modelagem<a/>
-2        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/02.Vision"> Vision </a>
-3        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/03.Function">Function<a/>
-4        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/04.Trigger">Trigger<a/>
-5        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/05.Transactions">Transactions<a/>
-6        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/06.mongo">Mongo DB </a>
-7        | <a href="https://github.com/ddenerson/DataBaseSQL/tree/master/07.SQLFundamentals">SQL Fundaments exercises[inglês]<a/>
-8        | <a>BigQuery<a/>
+- **Modelagem e teoria relacional** — introdução a BD, sistemas de BD, o modelo
+  relacional, projeto de BD, dependência funcional e normalização.
+- **SQL** — linguagens DQL, DDL e DML; agrupamento, funções de agregação e
+  indexação.
+- **Recursos avançados de banco** — views, functions, triggers e transactions.
+- **NoSQL** — introdução ao MongoDB.
+- **Prática adicional** — exercícios de SQL fundamentals e consultas em BigQuery.
+
+---
+
+## Estrutura do conteúdo
+
+| # | Tópico |
+| --- | --- |
+| 1 | Introdução a Banco de Dados |
+| 2 | Sistemas de Banco de Dados |
+| 3 | O modelo de dados relacional |
+| 4 | Projeto de BD relacional |
+| 5 | Dependência funcional |
+| 6 | Algoritmos |
+| 7 | Metodologia |
+| 8 | Linguagens DQL · DDL · DML |
+| 9 | Agrupamento |
+| 10 | Funções de agregação |
+| 11 | Indexação |
+| 12 | Introdução ao MongoDB |
+| 13 | SQL Fundamentals — exercícios extras |
+
+## Conteúdo prático
+
+| Posição | Conteúdo |
+| --- | --- |
+| 1 | Modelagem |
+| 2 | Views |
+| 3 | Functions |
+| 4 | Triggers |
+| 5 | Transactions |
+| 6 | MongoDB |
+| 7 | SQL Fundamentals exercises (inglês) |
+| 8 | BigQuery |
+
+---
+
+## Tecnologias
+
+SQL · PostgreSQL / MySQL · MongoDB · BigQuery
+
+## Sobre
+
+Material de estudo produzido durante a graduação, mantido público como registro
+da base teórica e prática em banco de dados.
+
+**Denerson Silva** — [github.com/ddenerson](https://github.com/ddenerson)
